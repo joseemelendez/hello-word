@@ -1,3 +1,6 @@
+#Hola mundo
+Este es el repositorio creado para la guia de github 
+
 # hello-word
 This is the "hello-word" repository made from tutorial page xd
 
